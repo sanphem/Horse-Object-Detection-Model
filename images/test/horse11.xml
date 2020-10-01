@@ -1,0 +1,26 @@
+<annotation>
+	<folder>horse</folder>
+	<filename>horse11.jpg</filename>
+	<path>/home/oluwafemi/Tensorflow/models/research/object_detection/horse/horse11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Horse</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>46</ymin>
+			<xmax>665</xmax>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+</annotation>
